@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int recur(string &s, int i, int ans, int sign){
-        if(i==s.size() || !isdigit(s[i])) return sign*ans;
-        if(ans>(INT_MAX-(s[i]-'0'))/10) return sign==1 ? INT_MAX: INT_MIN;
-        ans=ans*10+(s[i]-'0');
-        return recur(s, i+1, ans, sign);
-    }
+    // int recur(string &s, int i, int ans, int sign){
+    //     if(i==s.size() || !isdigit(s[i])) return sign*ans;
+    //     if(ans>(INT_MAX-(s[i]-'0'))/10) return sign==1 ? INT_MAX: INT_MIN;
+    //     ans=ans*10+(s[i]-'0');
+    //     return recur(s, i+1, ans, sign);
+    // }
 
     // int recur(string &s, int i, int ans, int sign, bool started){
     //     if(i==s.size()) return sign*ans;
@@ -24,14 +24,15 @@ public:
             if(s[i]=='-') sign=-1;
             i++;
         }
-        return recur(s, i, 0, sign);//helper recursion
-        // //leading zeroes are handled automatically
-        // while(i<s.size() && isdigit(s[i])){
-        //     if(num>(INT_MAX-(s[i]-'0'))/10) return sign==1 ? INT_MAX: INT_MIN;
-        //     num=num*10+(s[i]-'0');
-        //     i++;
-        // }
-        // return sign*num;
+        // return recur(s, i, 0, sign); //helper recursion
+        
+        //leading zeroes are handled automatically
+        while(i<s.size() && isdigit(s[i])){
+            if(num>(INT_MAX-(s[i]-'0'))/10) return sign==1 ? INT_MAX: INT_MIN;
+            num=num*10+(s[i]-'0');
+            i++;
+        }
+        return sign*num;
 
         // // pure recursive approach
         // return recur(s, 0, 0, 1, false);
