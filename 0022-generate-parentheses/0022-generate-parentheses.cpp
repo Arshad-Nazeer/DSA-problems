@@ -26,18 +26,22 @@ public:
     //     str.pop_back();
     // }
 
-    void backtrack(vector<string>& result, string str, int n, int open, int close){
+    void backtrack(vector<string>& result, string& str, int n, int open, int close){
         if(str.size()==2*n) {
             result.push_back(str);
             return;
         }
         if(open<n){
-            backtrack(result, str+'(', n, open+1, close);
+            str.push_back('(');
+            backtrack(result, str, n, open+1, close);
+            str.pop_back();
         }
         if(close<open){
             //close<n && close!=open
             //close can never exceed open, this condition also incorporates clsoe<n, it also prunes incorrect branches
-            backtrack(result, str+')', n, open, close+1);
+            str.push_back(')');
+            backtrack(result, str, n, open, close+1);
+            str.pop_back();
         }
         return;
     }
@@ -52,8 +56,11 @@ public:
 
         // optimal
         // Backtracking
+        // TC:- O(number of valid parentheses combo)
+        // TC:- O(n) // maximum recursion depth is 2*n
         vector<string> result;
-        backtrack(result, "", n, 0, 0);
+        string str="";
+        backtrack(result, str, n, 0, 0);
         return result;
     }
 };
