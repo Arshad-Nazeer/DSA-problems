@@ -7,8 +7,19 @@ public:
     // }
 
     bool isPowerOfTwo(int n) {
-        if(n<=0) return 0;
-        return __builtin_popcount(n)==1;
+        //brian kernighan O(1)
+        if(n<=0) return false;
+        int count=0;
+        while(n) {
+            n=n&(n-1);  //it removes rightmose set bit
+            count++;
+            if(count>1) return false;
+        }
+        return count==1;
+
+        // //this function counts number of set bits
+        // if(n<=0) return 0;
+        // return __builtin_popcount(n)==1;
 
         // // set bits is only one TC:- O(1)
         // if(n<=0) return false;
