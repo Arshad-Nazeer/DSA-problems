@@ -26,11 +26,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
