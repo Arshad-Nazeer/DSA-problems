@@ -1,20 +1,27 @@
 class Solution {
 public:
-    bool check(int n){
-        if(n==1) return true;
-        if(n%2!=0) return false;
-        return check(n/2);
-    }
+    // bool check(int n){
+    //     if(n==1) return true;
+    //     if(n%2!=0) return false;
+    //     return check(n/2);
+    // }
 
     bool isPowerOfTwo(int n) {
         // // set bits is only one TC:- O(1)
         // if(n<=0) return false;
         // int count=0;
-        // for(int i=0; i<31; i++){
+        // for(int i=0; i<32; i++){
         //     if(n & (1 << i)) count++;
         //     if(count>1) return false;
         // }
         // return count==1;
+
+        //left shifting bit
+        if(n<=0) return false;
+        for(int i=0; i<32; i++){
+            if(n==(1<<i)) return true;
+        }
+        return false;
 
         // // repeated division TC:-O(log n)
         // if(n<=0) return false;
@@ -25,9 +32,9 @@ public:
         // if(n<=0) return false;
         // return check(n);
 
-        //log2 approach
-        if(n<=0) return false;
-        double two=log2(n);
-        return floor(two)==two;
+        // //log2 approach
+        // if(n<=0) return false;
+        // double two=log2(n);
+        // return floor(two)==two;
     }
 };
