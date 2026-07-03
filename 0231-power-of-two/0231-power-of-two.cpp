@@ -7,6 +7,9 @@ public:
     // }
 
     bool isPowerOfTwo(int n) {
+        if(n<=0) return 0;
+        return __builtin_popcount(n)==1;
+
         // // set bits is only one TC:- O(1)
         // if(n<=0) return false;
         // int count=0;
@@ -16,12 +19,12 @@ public:
         // }
         // return count==1;
 
-        //left shifting bit
-        if(n<=0) return false;
-        for(int i=0; i<32; i++){
-            if(n==(1<<i)) return true;
-        }
-        return false;
+        // //left shifting bit
+        // if(n<=0) return false;
+        // for(int i=0; i<32; i++){
+        //     if(n==(1<<i)) return true;
+        // }
+        // return false;
 
         // // repeated division TC:-O(log n)
         // if(n<=0) return false;
