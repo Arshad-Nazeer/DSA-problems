@@ -21,8 +21,13 @@ public:
         // while(n%2==0) n=n/2;
         // return n==1;
 
-        //recursion
+        // //recursion
+        // if(n<=0) return false;
+        // return check(n);
+
+        //log2 approach
         if(n<=0) return false;
-        return check(n);
+        double two=log2(n);
+        return floor(two)==two;
     }
 };
