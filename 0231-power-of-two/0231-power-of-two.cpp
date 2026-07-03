@@ -17,9 +17,9 @@ public:
         // }
         // return count==1;
 
-        // optimal brian kernighan or bit mask
-        if(n<=0) return 0;
-        return (n&(n-1))==0;
+        // // optimal brian kernighan or bit mask
+        // if(n<=0) return 0;
+        // return (n&(n-1))==0;
 
         // //this function counts number of set bits
         // if(n<=0) return 0;
@@ -34,12 +34,12 @@ public:
         // }
         // return count==1;
 
-        // //left shifting bit
-        // if(n<=0) return false;
-        // for(int i=0; i<32; i++){
-        //     if(n==(1<<i)) return true;
-        // }
-        // return false;
+        //left shifting bit
+        if(n<=0) return false;
+        for(int i=0; i<32; i++){
+            if(!(n^(1<<i))) return true;
+        }
+        return false;
 
         // // repeated division TC:-O(log n)
         // if(n<=0) return false;
