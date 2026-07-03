@@ -1,7 +1,13 @@
 class Solution {
 public:
+    bool check(int n){
+        if(n==1) return true;
+        if(n%2!=0) return false;
+        return check(n/2);
+    }
+
     bool isPowerOfTwo(int n) {
-        // // set bit counter
+        // // set bits is only one TC:- O(1)
         // if(n<=0) return false;
         // int count=0;
         // for(int i=0; i<31; i++){
@@ -10,9 +16,13 @@ public:
         // }
         // return count==1;
 
-        // repeated division
+        // // repeated division TC:-O(log n)
+        // if(n<=0) return false;
+        // while(n%2==0) n=n/2;
+        // return n==1;
+
+        //recursion
         if(n<=0) return false;
-        while(n%2==0) n=n/2;
-        return n==1;
+        return check(n);
     }
 };
