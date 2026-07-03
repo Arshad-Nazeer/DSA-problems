@@ -7,7 +7,7 @@ public:
     // }
 
     bool isPowerOfTwo(int n) {
-        // //brian kernighan O(1)
+        // //brian kernighan O(1) //it repeatedly removes rightmost set bit to count set bits
         // if(n<=0) return false;
         // int count=0;
         // while(n) {
@@ -17,7 +17,7 @@ public:
         // }
         // return count==1;
 
-        // optimal brian kernighan
+        // optimal brian kernighan or bit mask
         if(n<=0) return 0;
         return (n&(n-1))==0;
 
