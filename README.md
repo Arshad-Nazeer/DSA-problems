@@ -6,6 +6,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -14,6 +15,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -62,4 +64,13 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
