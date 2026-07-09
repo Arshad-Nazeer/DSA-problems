@@ -7,12 +7,20 @@ public:
         // }
         // return count;
 
-        // brian-kernighan: it removes the rightmost set bit
+        //shifitng n instead of 1
         int count=0;
         while(n){
-            n=n&(n-1);
-            count++;
+            count+=n&1;
+            n=n>>1;
         }
         return count;
+
+        // // brian-kernighan: it removes the rightmost set bit
+        // int count=0;
+        // while(n){
+        //     n=n&(n-1);
+        //     count++;
+        // }
+        // return count;
     }
 };
