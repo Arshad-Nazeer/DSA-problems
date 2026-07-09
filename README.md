@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0090-subsets-ii) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 ## Counting
@@ -93,5 +95,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
