@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -69,6 +70,7 @@
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
