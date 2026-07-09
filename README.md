@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -60,6 +61,7 @@
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
