@@ -16,14 +16,14 @@ public:
         // return count;
 
         // // brian-kernighan: it removes the rightmost set bit  O(k) k: number of set bits
-        // int count=0;
-        // while(n){
-        //     n=n&(n-1);
-        //     count++;
-        // }
-        // return count;
+        int count=0;
+        while(n){
+            n=n&(n-1);
+            count++;
+        }
+        return count;
 
-        //built in function
-        return __builtin_popcount(n);
+        // //built in function
+        // return __builtin_popcount(n);
     }
 };
