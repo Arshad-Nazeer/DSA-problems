@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
