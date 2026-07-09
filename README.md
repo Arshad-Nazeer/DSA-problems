@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0136-single-number) |
@@ -76,9 +77,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
