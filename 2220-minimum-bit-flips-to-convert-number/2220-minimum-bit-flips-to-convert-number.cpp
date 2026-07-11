@@ -8,7 +8,7 @@ public:
         // }
         // return count;
 
-        //brian kernighan TC:-
+        //brian kernighan TC:-O(different bits)
         start=start^goal; //result contains set bits at indices different in start and goal
         int count=0;
         while(start){
