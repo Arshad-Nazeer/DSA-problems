@@ -14,11 +14,20 @@ public:
         // }
         // return ans;
 
-        // TC:- sorting and skipping over triplets O(nlogn+n/3)
-        sort(nums.begin(), nums.end());
-        for(int i=1; i<nums.size(); i=i+3){
-            if(nums[i]!=nums[i-1]) return nums[i-1];
+        // // TC:- sorting and skipping over triplets O(nlogn+n/3) 
+        // // much faster than counting set bits if n is small
+        // sort(nums.begin(), nums.end());
+        // for(int i=1; i<nums.size(); i=i+3){
+        //     if(nums[i]!=nums[i-1]) return nums[i-1];
+        // }
+        // return nums[nums.size()-1];
+
+        // bitmask
+        int ones=0, twos=0;
+        for(int &k: nums){
+            ones=(k^ones)&~twos;
+            twos=(k^twos)&~ones;
         }
-        return nums[nums.size()-1];
+        return ones;
     }
 };
