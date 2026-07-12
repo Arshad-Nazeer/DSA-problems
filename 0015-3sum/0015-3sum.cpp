@@ -43,7 +43,7 @@ public:
         // result.assign(s.begin(), s.end());
         // return result;
 
-        // //brute II Aprproach
+        // //Laand II Aprproach
         // sort(nums.begin(), nums.end());
         // set<vector<int>> s;
         // vector<vector<int>> v;
@@ -59,7 +59,7 @@ public:
         // v.assign(s.begin(), s.end());
         // return v;
 
-        // //brute approach
+        // //laand approach
         // sort(nums.begin(), nums.end());
         // set<vector<int>> s;
         // vector<vector<int>> result;
