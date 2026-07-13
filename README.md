@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@
 | [0137-single-number-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
