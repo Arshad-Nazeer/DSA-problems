@@ -20,6 +20,7 @@
 | [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@
 | [0001-two-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
