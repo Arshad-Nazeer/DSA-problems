@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xr=0, a=0, b=0;
+        int a=0, b=0;
+        long long xr=0;
         for(int &k: nums) xr^=k;
-        int rightmostsetbit=0;
-        while(!((xr>>rightmostsetbit)&1)) rightmostsetbit++;
+        int rightmostsetbit=(xr&(xr-1))^xr;
         for(int &k: nums) {
-            if((k>>rightmostsetbit)&1) a^=k;
+            if(rightmostsetbit&k) a^=k;
             else b^=k;
         }
         return {a, b};
