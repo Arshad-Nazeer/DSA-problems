@@ -1,10 +1,10 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        // // HEHE Library go brrrrr
+        // // library function
         // return int(sqrt(x));
 
-        // // LAAND APPROACH
+        // // Brute APPROACH
         // for(long long i=0; i<=x; i++){
         //     if(i*i==x) return i;
         //     else if(i*i>x) return (int)i-1;
