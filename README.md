@@ -26,6 +26,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
