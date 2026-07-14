@@ -14,14 +14,13 @@ public:
         // return ans;
 
         // prefix array TC:-O(q+n) SC:-O(n)
-        vector<int> prefix(arr.size()), ans;
-        prefix[0]=arr[0];
-        for(int i=1; i<arr.size(); i++) prefix[i]=arr[i]^prefix[i-1];
+        vector<int> ans;
+        for(int i=1; i<arr.size(); i++) arr[i]=arr[i]^arr[i-1];
 
         for(auto &q: queries){
             int left=q[0], right=q[1];
-            if(left==0) ans.push_back(prefix[right]);
-            else ans.push_back(prefix[right]^prefix[left-1]);
+            if(left==0) ans.push_back(arr[right]);
+            else ans.push_back(arr[right]^arr[left-1]);
         }
         return ans;
     }
