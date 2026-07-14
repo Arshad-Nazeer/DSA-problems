@@ -21,6 +21,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0461-hamming-distance) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
@@ -125,4 +127,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
