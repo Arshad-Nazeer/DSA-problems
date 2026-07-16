@@ -19,6 +19,7 @@
 | [0137-single-number-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +136,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 ## Simulation
