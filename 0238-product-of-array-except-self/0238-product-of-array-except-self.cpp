@@ -17,7 +17,7 @@ public:
         }
         return ans;
 
-        // //tomfoolery
+        // //dividing product of array by current element
         // vector<int> ans;
         // int pro=1, zero=0;
         // for(int k: nums){
@@ -38,7 +38,7 @@ public:
         // }
         // return ans;
 
-        // //laand appraoch
+        // //brute appraoch
         // vector<int> ans;
         // int pro=1;
         // for(int i=0; i<nums.size(); i++){
