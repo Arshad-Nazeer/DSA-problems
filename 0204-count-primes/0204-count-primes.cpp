@@ -22,10 +22,13 @@ public:
         if(n>0) prime[0]=false;
         if(n>1) prime[1]=false;
 
-        for(int i=2; i*i<n; i++){  //inner loop starts from i*i, there's no point if it exceeeds n
-            if(prime[i]){  //to prevent looping thorughb earlier cancelled out numbers
-                for(int j=i*i; j<n; j+=i){  // multiples less than i*i have already been accounted for by smaller numbers
-                    if(prime[j]) prime[j]=false;
+        for(int i=2; i*i<n; i++){  
+            //inner loop starts from i*i, there's no point if it exceeeds n
+            if(prime[i]){  
+                //to prevent looping thorughb earlier cancelled out numbers
+                for(int j=i*i; j<n; j+=i){  
+                    // multiples less than i*i have already been accounted for by smaller numbers
+                    prime[j]=false;
                 }
             }
         }
