@@ -57,6 +57,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
