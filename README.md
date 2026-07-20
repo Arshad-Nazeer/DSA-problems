@@ -67,6 +67,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Math
 |  |
 | ------- |
@@ -185,4 +186,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
