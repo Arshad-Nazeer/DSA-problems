@@ -63,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -146,6 +147,7 @@
 | [0015-3sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
