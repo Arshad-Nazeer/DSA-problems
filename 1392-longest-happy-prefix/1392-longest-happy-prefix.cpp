@@ -20,7 +20,7 @@ public:
         }
         return s.substr(0, lps.back());
 
-        // // brute force tC:- 3*((n-1) + (n-2) + (n-3) + ... + 2 + 1) = 3 × (n-1)n/2 = (n^2)
+        // // brute force TC:- 3*((n-1) + (n-2) + (n-3) + ... + 2 + 1) = 3 × (n-1)n/2 = (n^2)
         // int n=s.size();
         // for(int i=n-1; i>=1; i--){
         //     if(s.substr(0, i)==s.substr(n-i)) return s.substr(0, i);
