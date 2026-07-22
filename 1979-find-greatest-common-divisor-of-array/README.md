@@ -43,3 +43,19 @@ The greatest common divisor of 3 and 3 is 3.
 	<li><code>2 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
+
+Logic of Euclid's Algorithm:
+
+If d divides both a and b (assume a > b), then d also divides their difference (a − b), since divisors are preserved under linear combinations. Therefore,
+
+gcd(a, b) = gcd(a − b, b).
+
+Repeating this process preserves the GCD while reducing the larger number. Instead of repeatedly subtracting b from a, we can subtract as many multiples of b as possible in one step using:
+
+a % b = a − ⌊a/b⌋ · b.
+
+Thus,
+
+gcd(a, b) = gcd(b, a % b).
+
+Eventually, the remainder becomes 0. At that point, the remaining non-zero number divides both itself and 0, so it is the greatest common divisor.
