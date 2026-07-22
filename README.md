@@ -30,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
