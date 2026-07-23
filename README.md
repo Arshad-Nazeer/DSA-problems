@@ -69,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
+| [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -160,6 +161,7 @@
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
