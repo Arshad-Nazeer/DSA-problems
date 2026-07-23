@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
@@ -38,6 +39,7 @@
 | [0069-sqrtx](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -78,6 +80,7 @@
 | [0069-sqrtx](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
@@ -115,6 +118,7 @@
 | [0191-number-of-1-bits](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0461-hamming-distance) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
@@ -128,6 +132,7 @@
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -139,6 +144,7 @@
 | [0075-sort-colors](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
