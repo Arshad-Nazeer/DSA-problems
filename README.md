@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0137-single-number-ii) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
