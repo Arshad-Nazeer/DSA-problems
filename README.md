@@ -225,4 +225,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
