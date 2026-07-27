@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0054-spiral-matrix) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
