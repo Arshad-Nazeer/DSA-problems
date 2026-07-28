@@ -16,7 +16,7 @@ public:
         reverse(ans.begin(), ans.end());
         return ans;
 
-        //laand approach
+        // brute approach
         // string ans;
         // int i=num1.length()-1, j=num2.length()-1, carry=0;
         // while(i>=0 && j>=0){
