@@ -81,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
@@ -237,14 +238,17 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Linked List
 |  |
