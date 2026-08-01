@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0054-spiral-matrix) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +184,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
@@ -224,6 +227,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -266,4 +270,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
