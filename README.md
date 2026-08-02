@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -257,6 +259,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -278,4 +281,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
