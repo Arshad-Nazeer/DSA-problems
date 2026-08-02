@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,4 +290,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
