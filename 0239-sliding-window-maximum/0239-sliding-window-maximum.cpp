@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        //deque approach
+        // deque approach
         vector<int> ans;
         deque<int> dq;
         for(int i=0; i<k; i++){
@@ -24,7 +24,7 @@ public:
         }
         return ans;
 
-        // //Priority Queue approach
+        // // Priority Queue approach
         // vector<int> ans;
         // priority_queue<pair<int, int>> pq;
         // for(int i=0; i<k; i++){
@@ -42,7 +42,7 @@ public:
         // return ans;
 
 
-        // //tomfoolery
+        // // Brute Force
         // vector<int> ans;
         // int maxwin=INT_MIN;
         // for(int i=0; i<nums.size()-k+1; i++){
