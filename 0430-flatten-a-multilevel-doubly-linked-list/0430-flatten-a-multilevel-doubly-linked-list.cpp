@@ -17,11 +17,12 @@ public:
     //     while(curr!=NULL){
     //         Node* next=curr->next;
     //         if(curr->child){
-    //             Node* childHead=curr->child;
-    //             Node* childTail=dfs(childHead);
-    //             curr->next=childHead;
-    //             childHead->prev=curr;
+    //             Node* childTail=dfs(curr->child);
+
+    //             curr->next=curr->child;
+    //             curr->child->prev=curr;
     //             curr->child=NULL;
+
     //             childTail->next=next;
     //             if(next) next->prev=childTail;
 
