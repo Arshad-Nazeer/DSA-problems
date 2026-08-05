@@ -13,34 +13,49 @@ public:
     //     return temp;
     // }
 
-    // vector<vector<int>> exponentiation(vector<vector<int>> &base, int n){
-    //     vector<vector<int>> result={{1, 0}, {0, 1}};
-
-    //     while(n>0){
-    //         if(n%2!=0) result=multiplication(result, base);
-    //         base=multiplication(base, base);
-    //         n/=2;
-    //     }
-    //     return result;
+    // int dprecur(int n, vector<int> &dp){
+    //     if(n<=1) return n;
+    //     if(dp[n]!=-1) return dp[n];
+    //     dp[n]=dprecur(n-1, dp)+dprecur(n-2, dp);
+    //     return dp[n];
     // }
 
-    int dprecur(int n, vector<int> &dp){
-        if(n<=1) return n;
-        if(dp[n]!=-1) return dp[n];
-        dp[n]=dprecur(n-1, dp)+dprecur(n-2, dp);
-        return dp[n];
+    pair<int, int> fastdoubling(int n){
+        if(n==0) return {0, 1};
+
+        auto p=fastdoubling(n/2);
+
+        int a=p.first;
+        int b=p.second;
+
+        int c=a*(2*b-a); // even identity: F(2k)=F(k)×(2F(k+1)−F(k))
+        int d=a*a+b*b;   // odd identity: F(2k+1)=F(k)^2+F(k+1)^2
+        
+        if(n%2==0) return {c, d};
+        else return {d, c+d};
     }
 
     int fib(int n) {
-        //dynamic programming optimized recursion which reduces TC from O(2^n) to O(n)
-        vector<int> dp(n+1, -1);
-        return dprecur(n, dp);
+        // using fast doubling identities TC:- O(log(n)) SC:- O(log(n)) due to recursion stack
+        return fastdoubling(n).first;
 
-        // //matrix approach TC:- O(n)
+        // //dynamic programming optimized recursion which reduces TC from O(2^n) to O(n)
+        // vector<int> dp(n+1, -1);
+        // return dprecur(n, dp);
+
+        // //matrix approach TC:- O(log n)
         // if(n<=1) return n;
         // vector<vector<int>> base={{1, 1}, {1, 0}};
-        // vector<vector<int>> ans= exponentiation(base, n-1);
-        // return ans[0][0];
+        // vector<vector<int>> result={{1, 0}, {0, 1}};
+        // n--;
+
+        // while(n>0){
+        //     if(n%2!=0) result=multiplication(result, base);
+        //     base=multiplication(base, base);
+        //     n=n/2;
+        // }
+
+        // return result[0][0];
 
         // //recursion TC:-O(n^2)
         // if(n<=1) return n;
