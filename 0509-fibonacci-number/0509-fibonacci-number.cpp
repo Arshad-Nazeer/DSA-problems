@@ -42,7 +42,7 @@ public:
         // vector<vector<int>> ans= exponentiation(base, n-1);
         // return ans[0][0];
 
-        // //recursion TC:-O(n^2)
+        // //recursion TC:-O(2^n)
         // if(n<=1) return n;
         // return fib(n-1) +fib(n-2);
 
