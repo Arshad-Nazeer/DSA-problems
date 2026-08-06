@@ -41,6 +41,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@
 | [0704-binary-search](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
