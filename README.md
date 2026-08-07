@@ -26,6 +26,7 @@
 | [0136-single-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0238-product-of-array-except-self) |
@@ -108,6 +109,7 @@
 | [0029-divide-two-integers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
@@ -205,6 +207,7 @@
 | [0088-merge-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
