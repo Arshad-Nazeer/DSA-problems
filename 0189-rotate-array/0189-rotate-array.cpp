@@ -1,14 +1,13 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        // //tomfoolery
+        // better
         // vector<int> rotated(nums.size());
         // for(int i=0; i<nums.size(); i++){
         //     rotated[(i+k)%nums.size()]=nums[i];
         // }
         // nums.assign(rotated.begin(), rotated.end()); 
 
-        // //laand very shit approach incase k is too large
         // if(nums.size()<=1) return;
         // while(k--){
         //     int temp=nums[0];
@@ -18,6 +17,7 @@ public:
         //     nums[1]=temp;
         // }
 
+        // optimal
         k=k%nums.size(); //array repeats after n rotations
         reverse(nums.begin(), nums.end());
         reverse(nums.begin(), nums.begin()+k);
