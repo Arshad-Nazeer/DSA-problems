@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
@@ -60,6 +61,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -142,6 +144,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
+| [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -223,12 +226,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
