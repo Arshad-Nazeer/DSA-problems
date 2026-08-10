@@ -13,14 +13,14 @@ class Solution {
     }
 
     public int splitArray(int[] nums, int k) {
-        // Binary Search O(n*log(sum(nums)-min(nums)))
+        // Binary Search O(n*log(sum(nums)-max(nums)))
         int low=Integer.MIN_VALUE, high=0, ans=-1;
         for(int x: nums){
             low=Math.max(low, x);  // when k=nums.length
             high+=x;          // when k=1
         }
         while(low<=high){
-            int mid=low+(high-low)/2;
+            int mid=low+(high-low)/2; // current max sum allowed
             if(allocationPossible(nums, k, mid)){
                 ans=mid;
                 high=mid-1;
