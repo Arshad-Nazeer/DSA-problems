@@ -180,6 +180,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
