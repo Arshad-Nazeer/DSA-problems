@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0485-max-consecutive-ones) |
@@ -146,6 +147,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -344,4 +346,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
