@@ -100,6 +100,7 @@
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -146,6 +147,7 @@
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
