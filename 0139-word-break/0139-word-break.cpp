@@ -11,9 +11,10 @@ public:
     // }
 
     bool wordBreak(string s, vector<string>& wordDict) {
-        // //very ass approach TC is blowing in exponential O(2^n)
+        // // TC is blowing in exponential O(2^n)
         // unordered_set<string> dict(wordDict.begin(), wordDict.end());
         // return solve(0, s, dict);
+        
         int maxlen=0;
         for(string &str: wordDict){
             maxlen=max(maxlen, (int)str.size());
