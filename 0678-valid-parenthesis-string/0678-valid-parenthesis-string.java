@@ -59,5 +59,25 @@ class Solution {
             if(higher<0) return false;  // If even the maximum is negative, then there is no possible interpretation that works.
         }
         return lower==0 ? true : false;
+
+        // Two pass greedy
+        // checking two extreme cases of having too many ( or too many )
+        // int balance=0;
+        // for(int i=0; i<s.length(); i++){
+        //     if(s.charAt(i)=='*') balance++;
+        //     else balance--;
+        
+        //     if(balance<0) return false;
+        // }
+        
+        // balance=0;
+        // for(int i=s.length()-1; i>=0; i--){
+        //     if(s.charAt(i)=='*') balance++;
+        //     else balance--;
+        
+        //     if(balance<0) return false;
+        // }
+        
+        // return true;
     }
 }
