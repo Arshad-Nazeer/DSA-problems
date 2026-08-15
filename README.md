@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0204-count-primes) |
@@ -105,6 +106,7 @@
 | [0072-edit-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
@@ -154,6 +156,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0435-non-overlapping-intervals) |
@@ -195,6 +198,7 @@
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
@@ -290,6 +294,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -355,6 +360,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
@@ -380,4 +386,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0678-valid-parenthesis-string) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
