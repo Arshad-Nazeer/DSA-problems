@@ -54,6 +54,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
