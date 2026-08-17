@@ -27,6 +27,6 @@ class Solution {
             // if(i+nums[i]>greedyIndex) greedyIndex=i+nums[i];
             greedyIndex=Math.max(i+nums[i], greedyIndex);
         }
-        return greedyIndex>=nums.length-1;
+        return true;
     }
 }
