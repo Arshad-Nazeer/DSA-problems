@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0073-set-matrix-zeroes) |
@@ -154,6 +155,7 @@
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
