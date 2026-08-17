@@ -56,6 +56,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -76,6 +77,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -261,6 +265,7 @@
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +288,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
