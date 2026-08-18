@@ -121,6 +121,7 @@
 | [1143-longest-common-subsequence](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -138,6 +139,7 @@
 | [0415-add-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -260,6 +262,7 @@
 | [0860-lemonade-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
