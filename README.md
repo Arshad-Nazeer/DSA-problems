@@ -112,6 +112,7 @@
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0415-add-strings) |
@@ -208,6 +209,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
