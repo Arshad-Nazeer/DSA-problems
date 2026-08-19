@@ -208,6 +208,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
@@ -332,6 +333,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -373,6 +375,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Memoization
 |  |
@@ -407,4 +410,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
