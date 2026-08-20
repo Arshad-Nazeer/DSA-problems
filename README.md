@@ -53,6 +53,7 @@
 | [0860-lemonade-change](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
@@ -231,6 +232,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -255,6 +257,7 @@
 | [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
