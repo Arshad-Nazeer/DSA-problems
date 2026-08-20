@@ -119,6 +119,7 @@
 | [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
