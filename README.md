@@ -58,6 +58,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -174,6 +175,7 @@
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0455-assign-cookies](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
