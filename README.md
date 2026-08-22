@@ -108,6 +108,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
@@ -315,6 +316,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -417,6 +419,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 ## Brute-Force Search
 |  |
