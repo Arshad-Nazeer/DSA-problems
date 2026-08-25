@@ -56,6 +56,7 @@
 | [0875-koko-eating-bananas](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -230,6 +231,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -295,6 +297,7 @@
 | [0410-split-array-largest-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -322,6 +325,7 @@
 | [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
