@@ -130,6 +130,7 @@
 | [0214-shortest-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
@@ -234,6 +235,7 @@
 | [0169-majority-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -336,6 +338,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0930-binary-subarrays-with-sum) |
