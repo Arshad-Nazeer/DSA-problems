@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0053-maximum-subarray) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0078-subsets) |
