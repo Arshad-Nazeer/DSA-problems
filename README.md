@@ -123,6 +123,7 @@
 | [0038-count-and-say](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
@@ -231,6 +232,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0146-lru-cache) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0567-permutation-in-string) |
