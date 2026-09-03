@@ -69,6 +69,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@
 | [0507-perfect-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -173,6 +175,7 @@
 | [0050-powx-n](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -326,6 +329,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0415-add-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
@@ -421,6 +425,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Arshad-Nazeer/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
